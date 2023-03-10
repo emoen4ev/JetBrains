@@ -10,9 +10,9 @@ print(phone_book)
 # Remove a key-value pair from phone_book.
 del phone_book["John"]
 
-# Add Jared's number to the phone book
+phone_book['Jared'] = 570
 
-# Remove Gerard's number from the phone book
+del phone_book['Gerard']
 
 print(phone_book)
-print(???)
+print(phone_book['Jane'])

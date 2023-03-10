@@ -4,15 +4,15 @@ files:
   visible: true
   placeholders:
   - offset: 126
-    length: 67
+    length: 44
     placeholder_text: "# TODO: populate the dictionary with key:value pairs from the\
       \ lists"
     initial_state:
       length: 67
       offset: 126
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 0BQpJAHgW1Xrsm9PrvOfW50Bg9JBDzCSZDa7r8Mjf5RrCNowVeBRHEQ63N4VPnzt
   encrypted_text: qoATWIVw/03AYYx4InqZPa3jjufc2VLJL2IzcFK0ogiRD4Y2w46YYoWiE013kQ9yAFUQ/dQV4Wh8awb/KPsY3a3QkE4s10olOkdbij+y6l2QhQF4iBJkrOvKJVKrXzvXrHUNxs8SuAK3Gy+pAbHKEIEQEwFAcOAq2z9sr6zM0yN2bSp/zCdFHNQ2OiBNTxOCY25N7YhpzzYoe6jP3ZWxoNUxwrJBTLwLgF6QdHojh2MaiXsT0kVgZIaOkRtkrHcuB5Klm0Zqr7WU7fMaunMa4ksvryY8cRgkdatXdfhdQ/o=
   learner_created: false
@@ -28,5 +28,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 10 Mar 2023 16:25:27 UTC"
 record: -1
