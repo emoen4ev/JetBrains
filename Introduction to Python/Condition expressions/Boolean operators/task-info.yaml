@@ -3,15 +3,15 @@ files:
 - name: boolean_operators.py
   visible: true
   placeholders:
-  - offset: 126
-    length: 29
+  - offset: 127
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 127
     initialized_from_dependency: false
     selected: false
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: QMCIFWnGhaMi5Zxr0x+FqzIcRBuZHQcPRSQVdjM/5qg=
   encrypted_text: jTRA5ybceSpFBbSNeYml7LdMPCqD0t3O1+fPceh5sMV4q2gghmFtPmnUNNSUZj6mtmMZcNmgBBhMSvllu3tRYcO4BVzrRIBaNy+VgX3KPkZ8kKg2ovr/o80LXcWc/MQASHXxKXuCyq56oYizeWQN+4U1xDU3NJjx30d/YiP7uWpSN0DaLjQ73rta2sc5XlEM
   learner_created: false
@@ -24,8 +24,5 @@ files:
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Condition+Expressions+/+Boolean+Operators
-status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 10 Mar 2023 17:46:06 UTC"
+status: Unchecked
 record: -1
