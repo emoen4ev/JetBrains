@@ -6,3 +6,5 @@ if my_random_number > 50:
     print(my_random_number)
 else:
     print("Too small!")
+
+print(my_random_number if my_random_number > 50 else 'Too small!')
