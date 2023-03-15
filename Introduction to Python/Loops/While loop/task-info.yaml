@@ -12,17 +12,20 @@ files:
   visible: true
   placeholders:
   - offset: 302
-    length: 45
+    length: 18
     placeholder_text: '# Use a while statement and a condition here.'
     initial_state:
       length: 45
       offset: 302
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: k2NRSYIPL/X4VUW73Of2i/0ZJeuLMJMjgRE4GibuJkk=
   encrypted_text: oDO1+C0s0ej0xvUT8w7C325BhzOCQm5ajpWmmxBQrVZkfgdXWegBy54ID6UVExY9+26D40/VOk/pYJnhIFie9xWp023ACznCntThw7+Xg1ZZDQ5U0SGw7M4QxYha2z1ZpuDZlLfoPiI5RGHmOC9lgGg5TAQkyXZ2AsaVa49FPLPNk7K77AzBrrc/nai5v6TN0ROkX5kJVfxhTe2mZBqYtJBhcLNCb3sBigBOW7U3T5oZ4dv5Nm2amQpLSdadH4pp3UMppCSXbF+TxM1v+Ml9yXxZivXHF94wlaUT08lynwadBpUG5CadKbeDvuM66bggXTufVDe3px3H7+ybrpVN9dFrXr8823extXohNvVZm16cS+XDZaqmEIlQYTWkGI5DLCng/abJfEs4CJWPWLDQ87jfNHuBC6mtaPecXfZoJ1NFEIkN1eoTUMnR2HXj+bHFCLGT05UMrtuJs7YHovVqnpVXebYDgv8P7OxH2L+EIxkHhuh8JKCQpiRpcUS7f6wR+WWEEU6k/oahPTfRiy1eHWhWPT+eHUYugHjAEekuxuQ=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+While+loop
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 15 Mar 2023 08:30:55 UTC"
 record: -1

@@ -1,5 +1,10 @@
 def contains_even_number(lst):
-    pass
+    for item in lst:
+        if item % 2 == 0:
+            print(f"List {lst} contains an even number.")
+            break
+    else:
+        print(f"List {lst} does not contain an even number.")
 
 
 contains_even_number([1, 9, 8])
