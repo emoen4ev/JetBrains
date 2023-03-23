@@ -4,24 +4,24 @@ files:
   visible: true
   placeholders:
   - offset: 152
-    length: 37
+    length: 64
     placeholder_text: '# Open the file input1.txt in read mode using the with statement'
     initial_state:
       length: 64
       offset: 152
     initialized_from_dependency: false
-    selected: true
-    status: Solved
+    selected: false
+    status: Unchecked
     encrypted_possible_answer: ClONeCJ89xM+YLBHqI0uT1f8HqjRdiTgfJ5kbVb6uEkePVfxQgPcZ4zVQDjbR9AC
-  - offset: 397
-    length: 15
+  - offset: 424
+    length: 24
     placeholder_text: '# Close the output file!'
     initial_state:
       length: 24
       offset: 424
     initialized_from_dependency: false
-    selected: true
-    status: Solved
+    selected: false
+    status: Unchecked
     encrypted_possible_answer: GLfjqX8FAMv5bbIEND3/XA==
   encrypted_text: ClONeCJ89xM+YLBHqI0uT9mqDLNZoQ6T75bBp6qegFKfRt+TbWz5PrGlYiQjGQS43dOR3e5xCwFmkEktoOZlnLQEVwNGjINwpcyrqlN5BxpVJSrvB+5yoVZso6VvKXckatygmvKjdKuwxVQ0HFUtDHi22P4EvOoY5OACjxj9//354M46rAPgSYrmggCINRwRHk7lb6OPuLW0H6dHXFzxMugtmoify2csn6XmHqb7bRYKwiofnXosnGtVOfYisDWTqb9PpCQJCvkuPJBhLaBXvQcpUm3ujYUwJ2BpljvkO8VuS4YGZbso2RZJLYVoQzoCEsjX53Qj7nITaQfNceFvbD0WsAAqwEWu2NNQTP3Ig6AxExgoKiPL/HJnpjmJzTMIS9Ko7OLnuQ56rC1OhGHd2YoWfNsKHoCLhAvqzEn5Oy1c1HlVZo+8dXRVo5Y/0gm6DXHXGd86eSSMplm3nfN/LrtCgJ8751/dDuas+VROMl9SwTgtou8HFtjhoO85r9NlYqC8TfKQCVObU3/8WaKPKPA2B+8HE0/EYNJPVlJTEh5+Q5fJvSWbOQSLApGdOEOZC91P7D7DTp3X+QP6qBjeL/0aXIGYAsjZK39N08VfMPo=
   learner_created: false
@@ -46,8 +46,5 @@ files:
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: true
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=File+Input+Output+/+Open+file
-status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 18 Mar 2023 22:56:39 UTC"
+status: Unchecked
 record: -1
