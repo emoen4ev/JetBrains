@@ -1,2 +1,2 @@
 # JetBrains
-JetBrains courses studied by me.
+JetBrains courses studied.
